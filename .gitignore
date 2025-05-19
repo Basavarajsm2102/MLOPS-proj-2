@@ -162,3 +162,5 @@ cython_debug/
 #.idea/
 
 artifact/
+logs/
+src.egg-info/
