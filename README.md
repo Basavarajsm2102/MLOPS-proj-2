@@ -1,4 +1,4 @@
-# 🚗 Vehicle Insurance Prediction Project README ✨
+# 🚗 Vehicle Insurance Prediction
 
 Welcome to the **Vehicle Insurance Prediction Project**! This repository provides a comprehensive machine learning pipeline to predict vehicle insurance outcomes based on given data. Follow the steps below to set up, train, and deploy the prediction application. Let's dive in! 🚀
 
